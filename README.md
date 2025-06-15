@@ -183,9 +183,22 @@ The data was sourced from publicly available datasets (e.g., Kaggle).
 ---
 
 ## 🛠️ How to Run
-
 Clone the repo and run the notebook:
 
 ```bash
 git clone https://github.com/YourUsername/nba-home-win-prediction.git
 cd nba-home-win-prediction
+```
+
+### Web Shop Demo
+
+A small Flask app is included in `webapp/` demonstrating a simple clothing
+and shoe store. Install Flask and run the app:
+
+```bash
+pip install flask
+python webapp/app.py
+```
+
+Visit <http://localhost:5000> in your browser to try it out.
+
