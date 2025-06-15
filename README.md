@@ -2,6 +2,20 @@
 
 ---
 
+Walker Kessler	Paint Protector
+155	Daniel Gafford	Paint Protector
+248	Peyton Watson	Paint Protector
+274	Dereck Lively II	Paint Protector
+242	Jakob Poeltl	Paint Protector
+...	...	...
+617	Ryan Arcidiacono	Defensive Menace
+613	TyTy Washington Jr.	Defensive Menace
+607	Kendall Brown	Defensive Menace
+560	Terquavion Smith	Defensive Menace
+597	Daishen Nix	Defensive Menace
+147 rows × 2 columns
+
+
 ## 📊 Dataset
 
 We used NBA game data from 2003–2022, including:  
